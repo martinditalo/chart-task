@@ -1,0 +1,93 @@
+{
+    "data": [
+        {
+            "totalBet": 305.9053,
+            "totalWin": 1569.7522,
+            "totalCancel": 0,
+            "currency": "USD",
+            "gameName": "Bingo Trucks",
+            "providerCode": "zitro",
+            "players": 1
+        },
+        {
+            "totalBet": 12.3762,
+            "totalWin": 0,
+            "totalCancel": 0,
+            "currency": "USD",
+            "gameName": "Bingo",
+            "providerCode": "ptn",
+            "players": 1
+        },
+        {
+            "totalBet": 11.2871,
+            "totalWin": 21.6238,
+            "totalCancel": 0,
+            "currency": "USD",
+            "gameName": "Wins of Fortune",
+            "providerCode": "pt",
+            "players": 1
+        },
+        {
+            "totalBet": 7.1287,
+            "totalWin": 2.7381,
+            "totalCancel": 0,
+            "currency": "USD",
+            "gameName": "Hi Lo",
+            "providerCode": "spb",
+            "players": 3
+        },
+        {
+            "totalBet": 4.9505,
+            "totalWin": 0,
+            "totalCancel": 0,
+            "currency": "USD",
+            "gameName": "Mega Fire Blaze: Khonsu God of Moon",
+            "providerCode": "ptn",
+            "players": 1
+        },
+        {
+            "totalBet": 4.0099,
+            "totalWin": 4.5243,
+            "totalCancel": 0,
+            "currency": "USD",
+            "gameName": "Mines",
+            "providerCode": "spb",
+            "players": 2
+        },
+        {
+            "totalBet": 2.4752,
+            "totalWin": 0.9901,
+            "totalCancel": 0,
+            "currency": "USD",
+            "gameName": "FireBlaze Green Wizard",
+            "providerCode": "ptn",
+            "players": 1
+        },
+        {
+            "totalBet": 1.9802,
+            "totalWin": 0,
+            "totalCancel": 0,
+            "currency": "USD",
+            "providerCode": "ptn",
+            "players": 1
+        },
+        {
+            "totalBet": 0.7426,
+            "totalWin": 0.1485,
+            "totalCancel": 0,
+            "currency": "USD",
+            "gameName": "Vikings: Empire Treasures",
+            "providerCode": "pt",
+            "players": 1
+        },
+        {
+            "totalBet": 0.4455,
+            "totalWin": 0.8911,
+            "totalCancel": 0,
+            "currency": "USD",
+            "gameName": "Hotline",
+            "providerCode": "spb",
+            "players": 1
+        }
+    ]
+}

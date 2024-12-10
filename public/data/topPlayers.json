@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "totalBet": 11.2871,
+            "totalWin": 21.6238,
+            "totalCancel": 0,
+            "currency": "USD",
+            "brandName": "OCMSMUL",
+            "income": 10.3367,
+            "playerId": "qbdt1angely006752d74",
+            "brandId": 377
+        },
+        {
+            "totalBet": 17.2871,
+            "totalWin": 28.6238,
+            "totalCancel": 0,
+            "currency": "USD",
+            "brandName": "Test Brand",
+            "income": 15.3367,
+            "playerId": "qbdt1angely006752d74",
+            "brandId": 377
+        }
+    ]
+}

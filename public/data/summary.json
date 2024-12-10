@@ -1,0 +1,67 @@
+{
+    "data": [
+        {
+            "totalBet": 305.9053,
+            "totalWin": 1569.7522,
+            "totalCancel": 0,
+            "currency": "USD",
+            "players": 1,
+            "games": 8,
+            "time": "2024-01"
+        },
+        {
+            "totalBet": 11.5842,
+            "totalWin": 8.1535,
+            "totalCancel": 0,
+            "currency": "USD",
+            "players": 6,
+            "games": 22,
+            "time": "2024-02"
+        },
+        {
+            "totalBet": 0.1904,
+            "totalWin": 0.0476,
+            "totalCancel": 0,
+            "currency": "USD",
+            "players": 1,
+            "games": 1,
+            "time": "2024-04"
+        },
+        {
+            "totalBet": 21.7822,
+            "totalWin": 0.9901,
+            "totalCancel": 0,
+            "currency": "USD",
+            "players": 4,
+            "games": 9,
+            "time": "2024-05"
+        },
+        {
+            "totalBet": 0.7426,
+            "totalWin": 0.1485,
+            "totalCancel": 0,
+            "currency": "USD",
+            "players": 1,
+            "games": 3,
+            "time": "2024-07"
+        },
+        {
+            "totalBet": 0.3455,
+            "totalWin": 0,
+            "totalCancel": 0,
+            "currency": "USD",
+            "players": 1,
+            "games": 1,
+            "time": "2024-10"
+        },
+        {
+            "totalBet": 11.2871,
+            "totalWin": 21.6238,
+            "totalCancel": 0,
+            "currency": "USD",
+            "players": 1,
+            "games": 13,
+            "time": "2024-11"
+        }
+    ]
+}
